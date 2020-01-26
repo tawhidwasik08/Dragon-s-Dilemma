@@ -1,5 +1,5 @@
 # Dragon-s-Dilemma
-***Implemented using : java,java swing,MySQL***<br>
+***Implemented using : Java***<br>
 A 2D game made entirely on basic java for personal academic project. Completed in 2.1 in university.
 There was healthbar, jumping, score , locked levels until completed with certain score and stuffs. Everything was done from scratch even tried out simple spreadsheet images too. There were 3 levels. The playable character , named 'Atoi' at,
 - Level 1: Could walk,punch enemies
